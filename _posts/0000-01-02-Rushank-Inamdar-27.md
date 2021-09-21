@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Sucessfully Created a new file with commit reference
+"The greatest way to predict your life is to invent it"
 Use the left arrow to go back!
